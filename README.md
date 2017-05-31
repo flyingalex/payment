@@ -1,6 +1,6 @@
 # payment
 
-###1.Wechat pay
+### 1.Wechat pay
 ```
 ※配置指南
 MCHID = '1225312702';
